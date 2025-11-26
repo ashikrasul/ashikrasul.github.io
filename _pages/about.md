@@ -1,16 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ---
-layout: page
-title: About Me
-permalink: /
----
+
 
 I am **Ashik Rasul**, a Graduate Researcher at Tennessee Tech University.
 My work focuses on **UAV autonomy, POMDP exploration, and battery SOC estimation**.
