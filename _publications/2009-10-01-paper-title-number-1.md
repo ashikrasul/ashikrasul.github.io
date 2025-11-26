@@ -3,7 +3,7 @@ title: "Bayesian Data Augmentation and Training for Perception DNN in Autonomous
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'I used Bayesian optimization to synthetically augment deep learning training data so that the object detection model performs better across different weather and lighting conditions. '
+excerpt: 'We used Bayesian optimization to synthetically augment deep learning training data so that the object detection model performs better across different weather and lighting conditions. '
 date: 2025-01-01
 venue: 'AIAA SciTech, Orlando FL'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
