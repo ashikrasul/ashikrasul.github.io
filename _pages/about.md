@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 
-I am **Ashik Rasul**, a Graduate Researcher at Tennessee Tech University.
+I am **Ashik E Rasul**, working as Graduate Research Assistant at Tennessee Tech University.
 My work focuses on **UAV autonomy, POMDP exploration, and battery SOC estimation**.
 
-Previously, I worked in manufacturing automation (Unilever), and currently I work on
-probabilistic decision-making frameworks for autonomous VTOL landing.
+Previously, I worked as manufacturing engineer with UnileverBangladesh Limited. 
+
+My research objective is developing safe, trustworthy resilient perception and decision making frameworks for autonomous systems.  
