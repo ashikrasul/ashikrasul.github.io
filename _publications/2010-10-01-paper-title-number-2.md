@@ -7,7 +7,7 @@ excerpt: 'Only estimating SOC is not enough for safety critical decision making.
 date: 2025-10-08
 venue: 'MECC, Pittsburgh,PA'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/2025MECC.pdf'
+paperurl: 'https://ashikrasul.github.io/files/2025MECC.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 

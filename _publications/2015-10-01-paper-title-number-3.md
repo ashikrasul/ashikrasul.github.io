@@ -8,7 +8,7 @@ excerpt: 'We describe the development details of a 2.4m wingspan Quad-Plane for 
 date: 2026-01-01
 venue: 'AIAA SciTech, Orlando FL'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/SciTech2026.pdf'
+paperurl: 'https://ashikrasul.github.io/files/SciTech2026.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 

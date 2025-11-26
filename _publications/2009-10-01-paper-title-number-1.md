@@ -7,7 +7,7 @@ excerpt: 'We used Bayesian optimization to synthetically augment deep learning t
 date: 2025-01-01
 venue: 'AIAA SciTech, Orlando FL'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/2026SciTech.pdf'
+paperurl: 'https://ashikrasul.github.io/files/2026SciTech.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
