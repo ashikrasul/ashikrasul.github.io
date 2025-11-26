@@ -1,13 +1,13 @@
 ---
 title: "Bayesian Data Augmentation and Training for Perception DNN in Autonomous Aerial Vehicles"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'I used Bayesian optimization to synthetically augment deep learning training data so that the object detection model performs better across different weather and lighting conditions. '
 date: 2025-01-01
-venue: 'AIAA SciTech'
+venue: 'AIAA SciTech, Orlando FL'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academicpages.github.io/files/2026SciTech.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
